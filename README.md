@@ -22,7 +22,7 @@ Soy un apasionado estudiante de UPIIC-IPN en México dedicado a explorar y contr
 - Creé un chatbot capaz de comprender preguntas complejas y proporcionar respuestas precisas.
 - Integración de modelos de NLP para mejorar la interacción.
 
-## Educación y Formación
+## Educación y Formación 🎓📝
 ### Programa Académico
 - Curse hasta el 4to semestre en la carrear de Ingenieria en comunicaciones y electronica en ESIME-IPN
 - Actualmente curso la ingenieria en inteligencia artificial en UPIIC-IPN.
@@ -33,7 +33,7 @@ Soy un apasionado estudiante de UPIIC-IPN en México dedicado a explorar y contr
 - Planeo continuar explorando áreas como la inteligencia artificial explicativa y la ética en la IA.
 - Continuar con el aprendizaje mediante foros, conferencias y talleres relacionadas con la IA
 
-### Colaboraciones y Desarrollo Profesional 
+### Colaboraciones y Desarrollo Profesional 💻🛠️  
 - Busco oportunidades de colaboración con profesionales y empresas del campo.
 - Aspiro a contribuir al avance de la IA en aplicaciones del mundo real.
 
