@@ -3,7 +3,7 @@
 ![Imagen presentacion](https://github.com/Gavo10/Gavo10/blob/main/assets/presentacion.png)
 
 ## Conoceme 
-Soy un apasionado estudiante de UPIIC-IPN en México dedicado a explorar y contribuir al emocionante campo de la Inteligencia Artificial. Me encanta el deporte, ya que encuentro en él no solo una forma de mantenerme activo, sino también una fuente inagotable de lecciones sobre trabajo en equipo, disciplina y superación personal pero tambien me ha mostrado la importancia de la colaboración y la comunicación efectiva por lo que estoy emocionado de aplicar estas lecciones y habilidades en cualquier desafío que se presente en el campo de la IA.
+Soy un apasionado estudiante de ESCOM-IPN en México dedicado a explorar y contribuir al emocionante campo de la Inteligencia Artificial. Me encanta el deporte, ya que encuentro en él no solo una forma de mantenerme activo, sino también una fuente inagotable de lecciones sobre trabajo en equipo, disciplina y superación personal pero tambien me ha mostrado la importancia de la colaboración y la comunicación efectiva por lo que estoy emocionado de aplicar estas lecciones y habilidades en cualquier desafío que se presente en el campo de la IA.
 
 ## Áreas de conocimiento📖
 ### Aprendizaje Automático (ML) 🤖
@@ -19,13 +19,13 @@ Soy un apasionado estudiante de UPIIC-IPN en México dedicado a explorar y contr
 - Logré una precisión del 90% en el conjunto de prueba la cual se creaba con 10 imagenes por usuario.
 
 ### Chatbot 
-- Creé un chatbot capaz de comprender preguntas complejas y proporcionar respuestas precisas.
+- Creé un chatbot capaz de comprender preguntas y proporcionar respuestas precisas.
 - Integración de modelos de NLP para mejorar la interacción.
 
 ## Educación y Formación 🎓📝
 ### Programa Académico
-- Curse hasta el 4to semestre en la carrear de Ingenieria en comunicaciones y electronica en ESIME-IPN
-- Actualmente curso la ingenieria en inteligencia artificial en UPIIC-IPN.
+
+- Actualmente curso la ingenieria en inteligencia artificial en ESCOM-IPN.
 - Complete cursos en plataformas como HackerRank, FreeCodeCamp y coursera.
 
 ## Objetivos 🎯
